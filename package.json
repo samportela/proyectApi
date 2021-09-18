@@ -1,0 +1,29 @@
+{
+  "name": "proyect-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samportela/proyectApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samportela/proyectApi/issues"
+  },
+  "homepage": "https://github.com/samportela/proyectApi#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^9.1.1",
+    "request": "^2.88.2",
+    "spec": "^1.0.1"
+  }
+}
